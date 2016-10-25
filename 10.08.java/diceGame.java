@@ -1,6 +1,6 @@
 class diceGame
 {
-    private player p1; /*원래는 player player= new player //이건데 비긴 게임 밑에 꺼라 이거랑 나*/
+    private player p1;
     private player p2;
    public void beginGame() {
 
